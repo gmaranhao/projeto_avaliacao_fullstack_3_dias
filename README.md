@@ -7,3 +7,5 @@ Pelo tempo acabei não utilizando Angular no front, apenas um html/css/js básic
 Como era pra utilizar Jax-rs jersey optei por deixar simples como grizzly server. Para testar basta executar a classe Servidor. 
 
 Url para abrir o front: http://localhost:8080/index.html
+
+Para banco de dados utilizei JPA com MySql. Nome do schema do db: projeto-contatos. Nome do db: contatos. Com as seguintes colunas: código, cpf, email, endereço, nome e sobre nome.
