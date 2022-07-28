@@ -1,6 +1,6 @@
 # projeto_avaliacao_fullstack_3_dias
 
-O projeto está configura com Maven. O objetivo era esse comprir esse desafio em 3 dias: http://pdi.mobitbrasil.com.br:8601/projects/ANP/repos/programador-java/browse
+O projeto está configura com Maven. O objetivo era cumprir o desafio abaixo em 3 dias.
 
 Pelo tempo acabei não utilizando Angular no front, apenas um html/css/js básico para testar o backend. 
 
